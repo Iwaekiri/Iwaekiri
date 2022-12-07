@@ -1,4 +1,4 @@
-### Hi there :wawe:
+### Hi there :wave:
 > :boy: I am a Programmer and IoT Hardware Developer from China,now is in Japan.
 
 - 👨🏻‍💻 I'm working on web development by PHP.
