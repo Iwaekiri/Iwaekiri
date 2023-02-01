@@ -3,14 +3,14 @@
 
 - 👨🏻‍💻 I'm working on web development by PHP.
 - :octocat: I'm interested at OpenSource projects.
-- :computer: I also code with Python / C++ / JavaScript / Golang.
+- :computer: I also code with Python / C++ / JavaScript / Golang / Rust / CSharp.
 - :books: My research interests are in IoT applications and big data.
 - :bulb: I post my ideas on my blog:<a href="https://blog.ctri.cc/">https://blog.ctri.cc</a>
 - :speech_balloon: QQ:1489805848 or Discord:QiYiming#6898
 
 ---
 
-我是 <s>练习时长两年半</s> 的中国开发者，擅长摸鱼，平时不怎么玩游戏，玩的游戏比较少。
+我是 <s>练习时长两年半</s> 的中国开发者，擅长摸鱼，平时不怎么玩游戏，玩的游戏比较少(少部分音游和方块人)。
 
 目前是一名Freelancer，工作时间不固定，如果有PHP或物联网或单片机方面的订单随时可以找我，价格好谈。
 
