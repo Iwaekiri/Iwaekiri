@@ -13,5 +13,6 @@
 我是 <s>练习时长两年半</s> 的中国开发者，擅长摸鱼，平时不怎么玩游戏，玩的游戏比较少(少部分音游和方块人)。
 
 目前是一名Freelancer，工作时间不固定，如果有PHP或物联网或单片机方面的订单随时可以找我，价格好谈。
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,c,cpp,csharp,rust,go,bash,xml,json,yaml,mysql,powershell,x86,arm,markdown)](https://github.com/Jurredr/github-widgetbox)
 
 ![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api?username=CodereInc&show_icons=true&hide_border=true)
