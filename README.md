@@ -15,5 +15,4 @@
 目前是一名Freelancer，工作时间不固定，如果有PHP或物联网或单片机方面的订单随时可以找我，价格好谈。
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,php,python,html,css,c,cpp,csharp,rust,go,bash,xml,json,yaml,mysql,powershell,x86,arm,markdown)](https://github.com/Jurredr/github-widgetbox)
 
-![Iwaekiri's github stats](https://github-readme-stats.vercel.app/api?username=CodereInc&show_icons=true&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CodereInc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![code statistic](https://stats.deeptrain.net/user/CodereInc/)](https://github.com/zmh-program/code-statistic)
